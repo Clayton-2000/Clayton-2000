@@ -15,7 +15,6 @@ _I'm passionate about solving problems and learning. Always open to new challeng
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -48,5 +47,4 @@ _I'm passionate about solving problems and learning. Always open to new challeng
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-two-bay.vercel.app/api?username=Clayton-2000&show_icons=true&hide_border=true" />
 
-[instagram]: https://www.instagram.com/_tcheckslima/
 [linkedin]: https://www.linkedin.com/in/clayton-lima-b1a8b7178/
